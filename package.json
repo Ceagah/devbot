@@ -1,0 +1,20 @@
+{
+  "name": "devbot",
+  "version": "1.0.0",
+  "description": "a discord bot for devjr server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Ceagah/devbot"
+  },
+  "keywords": [
+    "devbot",
+    "bot",
+    "discordbot"
+  ],
+  "author": "Ceagah",
+  "license": "MIT"
+}
